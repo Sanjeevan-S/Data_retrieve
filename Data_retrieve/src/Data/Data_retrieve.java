@@ -4,7 +4,6 @@ public class Data_retrieve {
 
 	public Data_retrieve() {
 		
-		
 	}
 
 }
